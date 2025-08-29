@@ -1,5 +1,3 @@
----
-
 # 📊 Employee Attrition Analysis — Data Analytics Project
 
 ## Introduction
@@ -62,3 +60,4 @@ ZenithCorp currently faces a retention rate of **83.88%**. Attrition negatively 
 * Identified **top drivers of attrition** (compensation, promotion opportunities, job satisfaction).
 * Highlighted demographic patterns influencing turnover.
 * Delivered **visual, data-driven insights** for HR strategy and decision-making.
+
